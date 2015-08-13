@@ -10,10 +10,153 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2015 21:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2015 09:08:46 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2015 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[ember.js updated to version 2.0.0]]></title>
+            <description><![CDATA[Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/ember.js/2.0.0/ember.min.js">https://cdnjs.cloudflare.com/ajax/libs/ember.js/2.0.0/ember.min.js</a>]]></description>
+            <link>http://emberjs.com/</link>
+            <guid isPermaLink="false">ember.js2.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fixed-data-table updated to version 0.4.4]]></title>
+            <description><![CDATA[A React table component designed to allow presenting thousands of rows of data.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/fixed-data-table/0.4.4/fixed-data-table.min.js">https://cdnjs.cloudflare.com/ajax/libs/fixed-data-table/0.4.4/fixed-data-table.min.js</a>]]></description>
+            <link>http://facebook.github.io/fixed-data-table</link>
+            <guid isPermaLink="false">fixed-data-table0.4.4</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[scrollReveal.js updated to version 2.3.2]]></title>
+            <description><![CDATA[Declarative on-scroll reveal animations<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/2.3.2/scrollReveal.min.js">https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/2.3.2/scrollReveal.min.js</a>]]></description>
+            <link>https://github.com/julianlloyd/scrollReveal.js</link>
+            <guid isPermaLink="false">scrollReveal.js2.3.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[webtorrent updated to version 0.57.0]]></title>
+            <description><![CDATA[WebTorrent is a streaming torrent client for node.js and the browser. In the browser, WebTorrent uses WebRTC (data channels) for peer-to-peer transport. It can be used without browser plugins, extensions, or installations.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.57.0/webtorrent.min.js">https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.57.0/webtorrent.min.js</a>]]></description>
+            <link>http://webtorrent.io</link>
+            <guid isPermaLink="false">webtorrent0.57.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[scrollify updated to version 0.1.10]]></title>
+            <description><![CDATA[A jQuery plugin that assists scrolling and smoothly snaps to sections.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/scrollify/0.1.10/jquery.scrollify.min.js">https://cdnjs.cloudflare.com/ajax/libs/scrollify/0.1.10/jquery.scrollify.min.js</a>]]></description>
+            <link>http://projects.lukehaas.me/scrollify</link>
+            <guid isPermaLink="false">scrollify0.1.10</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:42:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[riot updated to version 2.2.4]]></title>
+            <description><![CDATA[A React- like, 2.5K user interface library<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/riot/2.2.4/riot.min.js">https://cdnjs.cloudflare.com/ajax/libs/riot/2.2.4/riot.min.js</a>]]></description>
+            <link>https://muut.com/riotjs/</link>
+            <guid isPermaLink="false">riot2.2.4</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mathjs updated to version 2.1.1]]></title>
+            <description><![CDATA[Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser and offers an integrated solution to work with numbers, big numbers, complex numbers, units, and matrices.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/mathjs/2.1.1/math.min.js">https://cdnjs.cloudflare.com/ajax/libs/mathjs/2.1.1/math.min.js</a>]]></description>
+            <link>http://mathjs.org</link>
+            <guid isPermaLink="false">mathjs2.1.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:42:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[geojson2svg updated to version 1.0.2]]></title>
+            <description><![CDATA[Converts geojson to svg/path string given svg viewport size and maps extent.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/geojson2svg/1.0.2/geojson2svg.min.js">https://cdnjs.cloudflare.com/ajax/libs/geojson2svg/1.0.2/geojson2svg.min.js</a>]]></description>
+            <guid isPermaLink="false">geojson2svg1.0.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[fullPage.js updated to version 2.6.9]]></title>
+            <description><![CDATA[Create  beautiful fullscreen scrolling websites<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.9/jquery.fullPage.min.css">https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.9/jquery.fullPage.min.css</a>]]></description>
+            <link>http://alvarotrigo.com/fullPage/</link>
+            <guid isPermaLink="false">fullPage.js2.6.9</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[defiant.js updated to version 1.3.3]]></title>
+            <description><![CDATA[Search JSON structures plus smart templating with XSLT and XPath.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/defiant.js/1.3.3/defiant.min.js">https://cdnjs.cloudflare.com/ajax/libs/defiant.js/1.3.3/defiant.min.js</a>]]></description>
+            <link>http://www.defiantjs.com</link>
+            <guid isPermaLink="false">defiant.js1.3.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[datatables updated to version 1.10.8]]></title>
+            <description><![CDATA[DataTables enhances HTML tables with the ability to sort, filter and page the data in the table very easily. It provides a comprehensive API and set of configuration options, allowing you to consume data from virtually any data source.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.8/js/jquery.dataTables.min.js">https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.8/js/jquery.dataTables.min.js</a>]]></description>
+            <link>http://datatables.net</link>
+            <guid isPermaLink="false">datatables1.10.8</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:40:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[danialfarid-angular-file-upload updated to version 6.1.0]]></title>
+            <description><![CDATA[An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/6.1.0/ng-file-upload-shim.min.js">https://cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/6.1.0/ng-file-upload-shim.min.js</a>]]></description>
+            <link>https://github.com/danialfarid/ng-file-upload</link>
+            <guid isPermaLink="false">danialfarid-angular-file-upload6.1.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:40:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[crossfilter updated to version 1.3.12]]></title>
+            <description><![CDATA[Fast multidimensional filtering for coordinated views.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js">https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js</a>]]></description>
+            <link>http://square.github.com/crossfilter/</link>
+            <guid isPermaLink="false">crossfilter1.3.12</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:39:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bootstrap-confirmation updated to version 1.0.3]]></title>
+            <description><![CDATA[Confirmation plugin compatible with Twitter Bootstrap 3 extending Popover<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-confirmation/1.0.3/bootstrap-confirmation.min.js">https://cdnjs.cloudflare.com/ajax/libs/bootstrap-confirmation/1.0.3/bootstrap-confirmation.min.js</a>]]></description>
+            <link>https://github.com/tavicu/bs-confirmation</link>
+            <guid isPermaLink="false">bootstrap-confirmation1.0.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:39:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[aws-sdk updated to version 2.1.45]]></title>
+            <description><![CDATA[The AWS SDK for JavaScript.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/aws-sdk/2.1.45/aws-sdk.min.js">https://cdnjs.cloudflare.com/ajax/libs/aws-sdk/2.1.45/aws-sdk.min.js</a>]]></description>
+            <link>https://github.com/aws/aws-sdk-js</link>
+            <guid isPermaLink="false">aws-sdk2.1.45</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 08:39:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[awesomplete(1.0.0) was added]]></title>
+            <description><![CDATA[Ultra lightweight, usable, beautiful autocomplete with zero dependencies.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/awesomplete/1.0.0/awesomplete.min.js">https://cdnjs.cloudflare.com/ajax/libs/awesomplete/1.0.0/awesomplete.min.js</a>]]></description>
+            <link>https://leaverou.github.io/awesomplete/</link>
+            <guid isPermaLink="false">awesomplete1.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 06:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[node-waves(0.7.2) was added]]></title>
+            <description><![CDATA[Click effect insipired by Google Material Design<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/node-waves/0.7.2/waves.min.js">https://cdnjs.cloudflare.com/ajax/libs/node-waves/0.7.2/waves.min.js</a>]]></description>
+            <link>http://fian.my.id/Waves</link>
+            <guid isPermaLink="false">node-waves0.7.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2015 06:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tweetnacl(0.13.1) was added]]></title>
+            <description><![CDATA[Port of TweetNaCl cryptographic library to JavaScript<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/tweetnacl/0.13.1/nacl-fast.min.js">https://cdnjs.cloudflare.com/ajax/libs/tweetnacl/0.13.1/nacl-fast.min.js</a>]]></description>
+            <link>https://dchest.github.io/tweetnacl-js</link>
+            <guid isPermaLink="false">tweetnacl0.13.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2015 11:23:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[simple-jekyll-search updated to version 1.0.8]]></title>
             <description><![CDATA[Simple Jekyll site search using javascript and json<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/simple-jekyll-search/1.0.8/jekyll-search.min.js">https://cdnjs.cloudflare.com/ajax/libs/simple-jekyll-search/1.0.8/jekyll-search.min.js</a>]]></description>
@@ -95,14 +238,6 @@
             <pubDate>Wed, 12 Aug 2015 10:46:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mathjs updated to version 2.1.0]]></title>
-            <description><![CDATA[Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser and offers an integrated solution to work with numbers, big numbers, complex numbers, units, and matrices.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/mathjs/2.1.0/math.min.js">https://cdnjs.cloudflare.com/ajax/libs/mathjs/2.1.0/math.min.js</a>]]></description>
-            <link>http://mathjs.org</link>
-            <guid isPermaLink="false">mathjs2.1.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2015 10:45:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[mediaelement updated to version 2.18.1]]></title>
             <description><![CDATA[HTML5 audio and video players in pure HTML and CSS. MediaElementPlayer.js uses the same HTML/CSS for all players.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/2.18.1/mediaelement.min.js">https://cdnjs.cloudflare.com/ajax/libs/mediaelement/2.18.1/mediaelement.min.js</a>]]></description>
             <link>http://mediaelementjs.com/</link>
@@ -167,28 +302,12 @@
             <pubDate>Wed, 12 Aug 2015 10:27:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[fixed-data-table(0.4.2) was added]]></title>
-            <description><![CDATA[A React table component designed to allow presenting thousands of rows of data.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/fixed-data-table/0.4.2/fixed-data-table.min.js">https://cdnjs.cloudflare.com/ajax/libs/fixed-data-table/0.4.2/fixed-data-table.min.js</a>]]></description>
-            <link>http://facebook.github.io/fixed-data-table</link>
-            <guid isPermaLink="false">fixed-data-table0.4.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2015 08:17:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[jquery-steps(1.1.0) was added]]></title>
             <description><![CDATA[A powerful jQuery wizard plugin that supports accessibility and HTML5<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/jquery-steps/1.1.0/jquery.steps.min.js">https://cdnjs.cloudflare.com/ajax/libs/jquery-steps/1.1.0/jquery.steps.min.js</a>]]></description>
             <link>http://www.jquery-steps.com</link>
             <guid isPermaLink="false">jquery-steps1.1.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 12 Aug 2015 07:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[scrollReveal.js updated to version 0.1.2]]></title>
-            <description><![CDATA[Declarative on-scroll reveal animations<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/0.1.2/scrollReveal.min.js">https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/0.1.2/scrollReveal.min.js</a>]]></description>
-            <link>https://github.com/julianlloyd/scrollReveal.js</link>
-            <guid isPermaLink="false">scrollReveal.js0.1.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2015 05:04:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[markdown.js updated to version 0.5.0]]></title>
@@ -253,14 +372,6 @@
             <pubDate>Tue, 11 Aug 2015 05:22:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[webtorrent updated to version 0.56.0]]></title>
-            <description><![CDATA[WebTorrent is a streaming torrent client for node.js and the browser. In the browser, WebTorrent uses WebRTC (data channels) for peer-to-peer transport. It can be used without browser plugins, extensions, or installations.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.56.0/webtorrent.min.js">https://cdnjs.cloudflare.com/ajax/libs/webtorrent/0.56.0/webtorrent.min.js</a>]]></description>
-            <link>http://webtorrent.io</link>
-            <guid isPermaLink="false">webtorrent0.56.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2015 05:20:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[t3js updated to version 1.5.1]]></title>
             <description><![CDATA[T3 Javascript Framework<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/t3js/1.5.1/t3.min.js">https://cdnjs.cloudflare.com/ajax/libs/t3js/1.5.1/t3.min.js</a>]]></description>
             <link>http://t3js.org</link>
@@ -290,14 +401,6 @@
             <guid isPermaLink="false">numbro1.5.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 11 Aug 2015 05:19:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fullPage.js updated to version 2.6.8]]></title>
-            <description><![CDATA[Create  beautiful fullscreen scrolling websites<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.8/jquery.fullPage.min.css">https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.8/jquery.fullPage.min.css</a>]]></description>
-            <link>http://alvarotrigo.com/fullPage/</link>
-            <guid isPermaLink="false">fullPage.js2.6.8</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2015 05:18:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[dragula updated to version 3.0.3]]></title>
@@ -346,14 +449,6 @@
             <guid isPermaLink="false">toastr.js2.1.2</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Mon, 10 Aug 2015 09:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ember.js updated to version 1.13.7]]></title>
-            <description><![CDATA[Ember is a JavaScript framework for creating ambitious web applications that eliminates boilerplate and provides a standard application architecture.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/ember.js/1.13.7/ember.min.js">https://cdnjs.cloudflare.com/ajax/libs/ember.js/1.13.7/ember.min.js</a>]]></description>
-            <link>http://emberjs.com/</link>
-            <guid isPermaLink="false">ember.js1.13.7</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2015 09:17:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[bacon.js updated to version 0.7.71]]></title>
@@ -520,14 +615,6 @@
             <pubDate>Sat, 08 Aug 2015 16:38:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[danialfarid-angular-file-upload updated to version 6.0.4]]></title>
-            <description><![CDATA[An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/6.0.4/ng-file-upload-shim.min.js">https://cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/6.0.4/ng-file-upload-shim.min.js</a>]]></description>
-            <link>https://github.com/danialfarid/ng-file-upload</link>
-            <guid isPermaLink="false">danialfarid-angular-file-upload6.0.4</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2015 16:36:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[angular-formly updated to version 6.23.2]]></title>
             <description><![CDATA[AngularJS directive which takes JSON representing a form and renders to HTML<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/angular-formly/6.23.2/formly.min.js">https://cdnjs.cloudflare.com/ajax/libs/angular-formly/6.23.2/formly.min.js</a>]]></description>
             <link>http://formly-js.github.io/angular-formly/#!/</link>
@@ -650,14 +737,6 @@
             <guid isPermaLink="false">rxjs3.0.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 08 Aug 2015 16:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[scrollify updated to version 0.1.9]]></title>
-            <description><![CDATA[A jQuery plugin that assists scrolling and smoothly snaps to sections.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/scrollify/0.1.9/jquery.scrollify.min.js">https://cdnjs.cloudflare.com/ajax/libs/scrollify/0.1.9/jquery.scrollify.min.js</a>]]></description>
-            <link>http://projects.lukehaas.me/scrollify</link>
-            <guid isPermaLink="false">scrollify0.1.9</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2015 16:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[string.js updated to version 3.3.1]]></title>
@@ -824,14 +903,6 @@
             <pubDate>Fri, 07 Aug 2015 07:57:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[aws-sdk updated to version 2.1.44]]></title>
-            <description><![CDATA[The AWS SDK for JavaScript.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/aws-sdk/2.1.44/aws-sdk.min.js">https://cdnjs.cloudflare.com/ajax/libs/aws-sdk/2.1.44/aws-sdk.min.js</a>]]></description>
-            <link>https://github.com/aws/aws-sdk-js</link>
-            <guid isPermaLink="false">aws-sdk2.1.44</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2015 07:35:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[animate.css updated to version 3.4.0]]></title>
             <description><![CDATA[Plug and play, app-like animations for your websites and web apps.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css">https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css</a>]]></description>
             <link>http://daneden.github.io/animate.css</link>
@@ -964,14 +1035,6 @@
             <guid isPermaLink="false">angular-smart-table2.1.2</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 05 Aug 2015 08:15:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[riot updated to version 2.2.3]]></title>
-            <description><![CDATA[A React- like, 2.5K user interface library<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/riot/2.2.3/riot.min.js">https://cdnjs.cloudflare.com/ajax/libs/riot/2.2.3/riot.min.js</a>]]></description>
-            <link>https://muut.com/riotjs/</link>
-            <guid isPermaLink="false">riot2.2.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2015 07:33:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[signet updated to version 0.4.8]]></title>
