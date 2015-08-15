@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2015 05:56:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2015 15:05:27 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2015 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[redux updated to version 1.0.1]]></title>
+            <description><![CDATA[Predictable state container for JavaScript apps<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/redux/1.0.1/redux.min.js">https://cdnjs.cloudflare.com/ajax/libs/redux/1.0.1/redux.min.js</a>]]></description>
+            <link>http://rackt.github.io/redux</link>
+            <guid isPermaLink="false">redux1.0.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2015 14:54:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[react-bootstrap updated to version 0.24.5]]></title>
             <description><![CDATA[Bootstrap 3 components build with React<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.24.5/react-bootstrap.min.js">https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.24.5/react-bootstrap.min.js</a>]]></description>
@@ -45,14 +53,6 @@
             <guid isPermaLink="false">rxjs3.0.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 15 Aug 2015 05:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[redux(1.0.0) was added]]></title>
-            <description><![CDATA[Predictable state container for JavaScript apps<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/redux/1.0.0/redux.min.js">https://cdnjs.cloudflare.com/ajax/libs/redux/1.0.0/redux.min.js</a>]]></description>
-            <link>http://rackt.github.io/redux</link>
-            <guid isPermaLink="false">redux1.0.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2015 20:54:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[angular-i18n updated to version 1.4.4]]></title>
