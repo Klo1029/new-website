@@ -10,10 +10,50 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2015 16:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2015 05:56:42 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2015 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[react-bootstrap updated to version 0.24.5]]></title>
+            <description><![CDATA[Bootstrap 3 components build with React<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.24.5/react-bootstrap.min.js">https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.24.5/react-bootstrap.min.js</a>]]></description>
+            <link>http://react-bootstrap.github.io/</link>
+            <guid isPermaLink="false">react-bootstrap0.24.5</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2015 05:44:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[danialfarid-angular-file-upload updated to version 6.2.0]]></title>
+            <description><![CDATA[An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/6.2.0/ng-file-upload-shim.min.js">https://cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/6.2.0/ng-file-upload-shim.min.js</a>]]></description>
+            <link>https://github.com/danialfarid/ng-file-upload</link>
+            <guid isPermaLink="false">danialfarid-angular-file-upload6.2.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2015 05:44:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[urljs updated to version 1.2.0]]></title>
+            <description><![CDATA[A lightweight JavaScript library to manipulate the page url.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/urljs/1.2.0/url.min.js">https://cdnjs.cloudflare.com/ajax/libs/urljs/1.2.0/url.min.js</a>]]></description>
+            <link>https://github.com/jillix/url.js</link>
+            <guid isPermaLink="false">urljs1.2.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2015 05:43:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rxjs updated to version 3.0.1]]></title>
+            <description><![CDATA[Library for composing asynchronous and event-based operations in JavaScript<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/rxjs/3.0.1/rx.min.js">https://cdnjs.cloudflare.com/ajax/libs/rxjs/3.0.1/rx.min.js</a>]]></description>
+            <link>https://github.com/Reactive-Extensions/RxJS</link>
+            <guid isPermaLink="false">rxjs3.0.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2015 05:43:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[redux(1.0.0) was added]]></title>
+            <description><![CDATA[Predictable state container for JavaScript apps<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/redux/1.0.0/redux.min.js">https://cdnjs.cloudflare.com/ajax/libs/redux/1.0.0/redux.min.js</a>]]></description>
+            <link>http://rackt.github.io/redux</link>
+            <guid isPermaLink="false">redux1.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2015 20:54:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[angular-i18n updated to version 1.4.4]]></title>
             <description><![CDATA[Locales for AngularJS<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/angular-i18n/1.4.4/angular-locale_en-us.min.js">https://cdnjs.cloudflare.com/ajax/libs/angular-i18n/1.4.4/angular-locale_en-us.min.js</a>]]></description>
@@ -109,14 +149,6 @@
             <guid isPermaLink="false">clusterize.js0.12.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 14 Aug 2015 15:30:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[danialfarid-angular-file-upload updated to version 6.1.1]]></title>
-            <description><![CDATA[An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/6.1.1/ng-file-upload-shim.min.js">https://cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/6.1.1/ng-file-upload-shim.min.js</a>]]></description>
-            <link>https://github.com/danialfarid/ng-file-upload</link>
-            <guid isPermaLink="false">danialfarid-angular-file-upload6.1.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2015 15:30:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ember-data.js updated to version 1.13.9]]></title>
@@ -466,14 +498,6 @@
             <guid isPermaLink="false">quickblox1.11.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 12 Aug 2015 10:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react-bootstrap updated to version 0.24.4]]></title>
-            <description><![CDATA[Bootstrap 3 components build with React<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.24.4/react-bootstrap.min.js">https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.24.4/react-bootstrap.min.js</a>]]></description>
-            <link>http://react-bootstrap.github.io/</link>
-            <guid isPermaLink="false">react-bootstrap0.24.4</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2015 10:31:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[videomail-client updated to version 1.3.26]]></title>
@@ -898,14 +922,6 @@
             <pubDate>Sat, 08 Aug 2015 16:25:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[rxjs updated to version 3.0.0]]></title>
-            <description><![CDATA[Library for composing asynchronous and event-based operations in JavaScript<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/rxjs/3.0.0/rx.min.js">https://cdnjs.cloudflare.com/ajax/libs/rxjs/3.0.0/rx.min.js</a>]]></description>
-            <link>https://github.com/Reactive-Extensions/RxJS</link>
-            <guid isPermaLink="false">rxjs3.0.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2015 16:24:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[string.js updated to version 3.3.1]]></title>
             <description><![CDATA[string.js contains methods that aren't included in the vanilla JavaScript string such as escaping HTML, decoding HTML entities, stripping tags, etc.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/string.js/3.3.1/string.min.js">https://cdnjs.cloudflare.com/ajax/libs/string.js/3.3.1/string.min.js</a>]]></description>
             <link>http://stringjs.com</link>
@@ -1326,93 +1342,6 @@
             <guid isPermaLink="false">stampit2.1.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sat, 01 Aug 2015 16:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[js-data updated to version 2.3.0]]></title>
-            <description><![CDATA[Robust, framework-agnostic in-memory data store.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/js-data/2.3.0/js-data.min.js">https://cdnjs.cloudflare.com/ajax/libs/js-data/2.3.0/js-data.min.js</a>]]></description>
-            <link>http://www.js-data.io</link>
-            <guid isPermaLink="false">js-data2.3.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2015 23:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[es6-shim updated to version 0.33.0]]></title>
-            <description><![CDATA[ECMAScript 6 (Harmony) compatibility shims for legacy JavaScript engines<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.33.0/es6-shim.min.js">https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.33.0/es6-shim.min.js</a>]]></description>
-            <link>https://github.com/es-shims/es6-shim/</link>
-            <guid isPermaLink="false">es6-shim0.33.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2015 22:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[reactable(0.10.2) was added]]></title>
-            <description><![CDATA[Fast, flexible, simple data tables in React<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/reactable/0.10.2/reactable.min.js">https://cdnjs.cloudflare.com/ajax/libs/reactable/0.10.2/reactable.min.js</a>]]></description>
-            <link>https://github.com/glittershark/reactable</link>
-            <guid isPermaLink="false">reactable0.10.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2015 20:49:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[swig updated to version 1.4.1]]></title>
-            <description><![CDATA[A simple, powerful, and extendable templating engine for node.js and browsers, similar to Django, Jinja2, and Twig.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/swig/1.4.1/swig.min.js">https://cdnjs.cloudflare.com/ajax/libs/swig/1.4.1/swig.min.js</a>]]></description>
-            <guid isPermaLink="false">swig1.4.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2015 20:46:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blueimp-gallery updated to version 2.16.0]]></title>
-            <description><![CDATA[blueimp Gallery is a touch-enabled, responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. It features swipe, mouse and keyboard navigation, transition effects, slideshow functionality, fullscreen support and on-demand content loading and can be extended to display additional content types.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.16.0/js/blueimp-gallery.min.js">https://cdnjs.cloudflare.com/ajax/libs/blueimp-gallery/2.16.0/js/blueimp-gallery.min.js</a>]]></description>
-            <link>https://github.com/blueimp/Gallery</link>
-            <guid isPermaLink="false">blueimp-gallery2.16.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2015 20:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[reqwest updated to version 2.0.1]]></title>
-            <description><![CDATA[A wrapper for asynchronous http requests<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/reqwest/2.0.1/reqwest.min.js">https://cdnjs.cloudflare.com/ajax/libs/reqwest/2.0.1/reqwest.min.js</a>]]></description>
-            <link>https://github.com/ded/reqwest</link>
-            <guid isPermaLink="false">reqwest2.0.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2015 20:33:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yasr updated to version 2.6.0]]></title>
-            <description><![CDATA[Yet Another SPARQL Resultset Visualizer<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/yasr/2.6.0/yasr.bundled.min.js">https://cdnjs.cloudflare.com/ajax/libs/yasr/2.6.0/yasr.bundled.min.js</a>]]></description>
-            <link>http://yasr.yasgui.org</link>
-            <guid isPermaLink="false">yasr2.6.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2015 20:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[algoliasearch updated to version 3.7.5]]></title>
-            <description><![CDATA[Algolia Search JavaScript API Client<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.7.5/algoliasearch.min.js">https://cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.7.5/algoliasearch.min.js</a>]]></description>
-            <link>https://github.com/algolia/algoliasearch-client-js</link>
-            <guid isPermaLink="false">algoliasearch3.7.5</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2015 20:26:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[es5-shim updated to version 4.1.10]]></title>
-            <description><![CDATA[ECMAScript 5 compatibility shims for legacy JavaScript engines<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.1.10/es5-shim.min.js">https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.1.10/es5-shim.min.js</a>]]></description>
-            <link>http://github.com/es-shims/es5-shim/</link>
-            <guid isPermaLink="false">es5-shim4.1.10</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2015 20:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[react-slick updated to version 0.6.6]]></title>
-            <description><![CDATA[ React port of slick carousel<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/react-slick/0.6.6/react-slick.min.js">https://cdnjs.cloudflare.com/ajax/libs/react-slick/0.6.6/react-slick.min.js</a>]]></description>
-            <link>https://github.com/akiran/react-slick</link>
-            <guid isPermaLink="false">react-slick0.6.6</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2015 19:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[crossroads updated to version 0.12.2]]></title>
-            <description><![CDATA[Flexible router which can be used in multiple environments<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/crossroads/0.12.2/crossroads.min.js">https://cdnjs.cloudflare.com/ajax/libs/crossroads/0.12.2/crossroads.min.js</a>]]></description>
-            <link>http://millermedeiros.github.com/crossroads.js/</link>
-            <guid isPermaLink="false">crossroads0.12.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2015 19:49:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[pubsub-js(1.5.2) was added]]></title>
