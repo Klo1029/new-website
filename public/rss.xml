@@ -10,10 +10,106 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2015 12:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2015 16:34:05 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2015 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[onsen updated to version 1.3.8]]></title>
+            <description><![CDATA[Web Component inspired HTML5 UI framework for building modern mobile application<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/onsen/1.3.8/js/onsenui.min.js">https://cdnjs.cloudflare.com/ajax/libs/onsen/1.3.8/js/onsenui.min.js</a>]]></description>
+            <link>http://onsen.io/</link>
+            <guid isPermaLink="false">onsen1.3.8</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[unsemantic updated to version 1.0.2]]></title>
+            <description><![CDATA[Unsemantic is a fluid grid system that is the successor to the 960 Grid System. It works in a similar way, but instead of being a set number of columns, it's entirely based on percentages.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/unsemantic/1.0.2/unsemantic-grid-responsive.min.css">https://cdnjs.cloudflare.com/ajax/libs/unsemantic/1.0.2/unsemantic-grid-responsive.min.css</a>]]></description>
+            <link>http://unsemantic.com</link>
+            <guid isPermaLink="false">unsemantic1.0.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[remodal updated to version 1.0.2]]></title>
+            <description><![CDATA[Responsive, lightweight, fast, synchronized with CSS animations, fully customizable modal window plugin with declarative configuration and hash tracking.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.0.2/remodal.min.js">https://cdnjs.cloudflare.com/ajax/libs/remodal/1.0.2/remodal.min.js</a>]]></description>
+            <link>http://vodkabears.github.io/remodal/</link>
+            <guid isPermaLink="false">remodal1.0.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[onepage-scroll updated to version 1.3.1]]></title>
+            <description><![CDATA[Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/onepage-scroll/1.3.1/jquery.onepage-scroll.min.js">https://cdnjs.cloudflare.com/ajax/libs/onepage-scroll/1.3.1/jquery.onepage-scroll.min.js</a>]]></description>
+            <link>http://www.thepetedesign.com/demos/onepage_scroll_demo.html</link>
+            <guid isPermaLink="false">onepage-scroll1.3.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[notify updated to version 0.3.2]]></title>
+            <description><![CDATA[A simple, versatile notification library<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/notify/0.3.2/notify.min.js">https://cdnjs.cloudflare.com/ajax/libs/notify/0.3.2/notify.min.js</a>]]></description>
+            <link>http://notifyjs.com/</link>
+            <guid isPermaLink="false">notify0.3.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jquery.smartmenus updated to version 1.0.0]]></title>
+            <description><![CDATA[Advanced jQuery website menu plugin. Mobile first, responsive and accessible list-based website menus that work on all devices.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/jquery.smartmenus/1.0.0/jquery.smartmenus.min.js">https://cdnjs.cloudflare.com/ajax/libs/jquery.smartmenus/1.0.0/jquery.smartmenus.min.js</a>]]></description>
+            <link>http://www.smartmenus.org/</link>
+            <guid isPermaLink="false">jquery.smartmenus1.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[dialog-polyfill updated to version 0.3.0]]></title>
+            <description><![CDATA[Polyfill for the <dialog> element<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/dialog-polyfill/0.3.0/dialog-polyfill.min.js">https://cdnjs.cloudflare.com/ajax/libs/dialog-polyfill/0.3.0/dialog-polyfill.min.js</a>]]></description>
+            <link>https://github.com/GoogleChrome/dialog-polyfill</link>
+            <guid isPermaLink="false">dialog-polyfill0.3.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[classnames updated to version 2.1.3]]></title>
+            <description><![CDATA[A simple utility for conditionally joining classNames together<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/classnames/2.1.3/index.min.js">https://cdnjs.cloudflare.com/ajax/libs/classnames/2.1.3/index.min.js</a>]]></description>
+            <link>http://jedwatson.github.io/classnames/</link>
+            <guid isPermaLink="false">classnames2.1.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[awesomplete updated to version 1.0.0]]></title>
+            <description><![CDATA[Ultra lightweight, usable, beautiful autocomplete with zero dependencies.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/awesomplete/1.0.0/awesomplete.min.js">https://cdnjs.cloudflare.com/ajax/libs/awesomplete/1.0.0/awesomplete.min.js</a>]]></description>
+            <link>https://leaverou.github.io/awesomplete/</link>
+            <guid isPermaLink="false">awesomplete1.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular-leaflet-directive updated to version 0.8.6]]></title>
+            <description><![CDATA[An AngularJS directive to easily interact with Leaflet maps<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/angular-leaflet-directive/0.8.6/angular-leaflet-directive.min.js">https://cdnjs.cloudflare.com/ajax/libs/angular-leaflet-directive/0.8.6/angular-leaflet-directive.min.js</a>]]></description>
+            <link>http://tombatossals.github.io/angular-leaflet-directive/</link>
+            <guid isPermaLink="false">angular-leaflet-directive0.8.6</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Radian updated to version 0.1.3]]></title>
+            <description><![CDATA[Radian is a JavaScript library for producing interactive SVG plots in HTML using Angular JS and D3.js.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/Radian/0.1.3/radian.min.js">https://cdnjs.cloudflare.com/ajax/libs/Radian/0.1.3/radian.min.js</a>]]></description>
+            <link>http://openbrainsrc.github.io/Radian/download.html</link>
+            <guid isPermaLink="false">Radian0.1.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Buttons updated to version 2.0.0]]></title>
+            <description><![CDATA[A fully customizable CSS button library built with Sass<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/Buttons/2.0.0/css/buttons.min.css">https://cdnjs.cloudflare.com/ajax/libs/Buttons/2.0.0/css/buttons.min.css</a>]]></description>
+            <link>http://unicorn-ui.com/buttons/</link>
+            <guid isPermaLink="false">Buttons2.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 14:08:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[async updated to version 1.4.2]]></title>
             <description><![CDATA[Higher-order functions and common patterns for asynchronous code<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/async/1.4.2/async.min.js">https://cdnjs.cloudflare.com/ajax/libs/async/1.4.2/async.min.js</a>]]></description>
@@ -201,6 +297,13 @@
             <guid isPermaLink="false">iframe-resizer3.0.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 19 Aug 2015 16:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[d3.chart(0.2.1) was added]]></title>
+            <description><![CDATA[A framework for creating reusable charts with D3.js<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/d3.chart/0.2.1/d3.chart.min.js">https://cdnjs.cloudflare.com/ajax/libs/d3.chart/0.2.1/d3.chart.min.js</a>]]></description>
+            <guid isPermaLink="false">d3.chart0.2.1</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2015 16:00:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[gauge.js(1.2.1) was added]]></title>
@@ -1567,14 +1670,6 @@
             <pubDate>Wed, 19 Aug 2015 07:41:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[notify(0.3.2) was added]]></title>
-            <description><![CDATA[A simple, versatile notification library<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/notify/0.3.2/notify.min.js">https://cdnjs.cloudflare.com/ajax/libs/notify/0.3.2/notify.min.js</a>]]></description>
-            <link>http://notifyjs.com/</link>
-            <guid isPermaLink="false">notify0.3.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2015 07:22:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[medium-editor updated to version 5.6.3]]></title>
             <description><![CDATA[Medium.com WYSIWYG editor clone.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/medium-editor/5.6.3//js/medium-editor.min.js">https://cdnjs.cloudflare.com/ajax/libs/medium-editor/5.6.3//js/medium-editor.min.js</a>]]></description>
             <link>http://yabwe.github.io/medium-editor/</link>
@@ -1822,14 +1917,6 @@
             <pubDate>Mon, 17 Aug 2015 10:10:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Radian(0.1.3) was added]]></title>
-            <description><![CDATA[Radian is a JavaScript library for producing interactive SVG plots in HTML using Angular JS and D3.js.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/Radian/0.1.3/radian.min.js">https://cdnjs.cloudflare.com/ajax/libs/Radian/0.1.3/radian.min.js</a>]]></description>
-            <link>http://openbrainsrc.github.io/Radian/download.html</link>
-            <guid isPermaLink="false">Radian0.1.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2015 09:37:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[bootstrap-slider updated to version 5.0.12]]></title>
             <description><![CDATA[Slider view component for Twitter Bootstrap.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/5.0.12/bootstrap-slider.min.js">https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/5.0.12/bootstrap-slider.min.js</a>]]></description>
             <link>https://github.com/seiyria/bootstrap-slider</link>
@@ -2042,14 +2129,6 @@
             <pubDate>Fri, 14 Aug 2015 15:19:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Buttons(2.0.0) was added]]></title>
-            <description><![CDATA[A fully customizable CSS button library built with Sass<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/Buttons/2.0.0/css/buttons.min.css">https://cdnjs.cloudflare.com/ajax/libs/Buttons/2.0.0/css/buttons.min.css</a>]]></description>
-            <link>http://unicorn-ui.com/buttons/</link>
-            <guid isPermaLink="false">Buttons2.0.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2015 10:25:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[angular-recaptcha(2.2.4) was added]]></title>
             <description><![CDATA[VividCortex<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/angular-recaptcha/2.2.4/angular-recaptcha.min.js">https://cdnjs.cloudflare.com/ajax/libs/angular-recaptcha/2.2.4/angular-recaptcha.min.js</a>]]></description>
             <link>https://github.com/vividcortex/angular-recaptcha</link>
@@ -2072,14 +2151,6 @@
             <guid isPermaLink="false">bigfishtv-turret3.0.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 14 Aug 2015 05:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[unsemantic updated to version 1.0.2]]></title>
-            <description><![CDATA[Unsemantic is a fluid grid system that is the successor to the 960 Grid System. It works in a similar way, but instead of being a set number of columns, it's entirely based on percentages.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/unsemantic/1.0.2/unsemantic-grid-responsive.min.css">https://cdnjs.cloudflare.com/ajax/libs/unsemantic/1.0.2/unsemantic-grid-responsive.min.css</a>]]></description>
-            <link>http://unsemantic.com</link>
-            <guid isPermaLink="false">unsemantic1.0.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2015 14:18:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[two.js updated to version 0.4.0]]></title>
@@ -2159,14 +2230,6 @@
             <guid isPermaLink="false">bootstrap-confirmation1.0.3</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 13 Aug 2015 08:39:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[awesomplete(1.0.0) was added]]></title>
-            <description><![CDATA[Ultra lightweight, usable, beautiful autocomplete with zero dependencies.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/awesomplete/1.0.0/awesomplete.min.js">https://cdnjs.cloudflare.com/ajax/libs/awesomplete/1.0.0/awesomplete.min.js</a>]]></description>
-            <link>https://leaverou.github.io/awesomplete/</link>
-            <guid isPermaLink="false">awesomplete1.0.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2015 06:22:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[node-waves(0.7.2) was added]]></title>
@@ -2399,14 +2462,6 @@
             <pubDate>Mon, 10 Aug 2015 04:52:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[onsen updated to version 1.3.8]]></title>
-            <description><![CDATA[Web Component inspired HTML5 UI framework for building modern mobile application<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/onsen/1.3.8/js/onsenui.min.js">https://cdnjs.cloudflare.com/ajax/libs/onsen/1.3.8/js/onsenui.min.js</a>]]></description>
-            <link>http://onsen.io/</link>
-            <guid isPermaLink="false">onsen1.3.8</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2015 04:35:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[jquery-infinitescroll updated to version 2.1.0]]></title>
             <description><![CDATA[This plugin aims to progressively enhance your page, providing a more rich browsing experience when scrolling big amount of data.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js">https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js</a>]]></description>
             <link>http://www.infinite-scroll.com/infinite-scroll-jquery-plugin/</link>
@@ -2595,14 +2650,6 @@
             <pubDate>Fri, 07 Aug 2015 15:39:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[angular-leaflet-directive(0.8.6) was added]]></title>
-            <description><![CDATA[An AngularJS directive to easily interact with Leaflet maps<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/angular-leaflet-directive/0.8.6/angular-leaflet-directive.min.js">https://cdnjs.cloudflare.com/ajax/libs/angular-leaflet-directive/0.8.6/angular-leaflet-directive.min.js</a>]]></description>
-            <link>http://tombatossals.github.io/angular-leaflet-directive/</link>
-            <guid isPermaLink="false">angular-leaflet-directive0.8.6</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2015 15:09:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[FitText.js updated to version 1.2.0]]></title>
             <description><![CDATA[A jQuery plugin for inflating web type<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/FitText.js/1.2.0/jquery.fittext.min.js">https://cdnjs.cloudflare.com/ajax/libs/FitText.js/1.2.0/jquery.fittext.min.js</a>]]></description>
             <link>http://fittextjs.com/</link>
@@ -2616,14 +2663,6 @@
             <guid isPermaLink="false">scrollmonitor1.0.12</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 07 Aug 2015 14:12:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[classnames(2.1.3) was added]]></title>
-            <description><![CDATA[A simple utility for conditionally joining classNames together<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/classnames/2.1.3/index.min.js">https://cdnjs.cloudflare.com/ajax/libs/classnames/2.1.3/index.min.js</a>]]></description>
-            <link>http://jedwatson.github.io/classnames/</link>
-            <guid isPermaLink="false">classnames2.1.3</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2015 12:58:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[angular-gravatar(0.4.1) was added]]></title>
@@ -2687,27 +2726,11 @@
             <pubDate>Thu, 06 Aug 2015 20:48:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[freewall(1.0.5) was added]]></title>
-            <description><![CDATA[jQuery plugin for creating grid layouts<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/freewall/1.0.5/freewall.min.js">https://cdnjs.cloudflare.com/ajax/libs/freewall/1.0.5/freewall.min.js</a>]]></description>
-            <link>http://vnjs.net/www/project/freewall/</link>
-            <guid isPermaLink="false">freewall1.0.5</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2015 15:32:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[bigslide.js(0.9.1) was added]]></title>
             <description><![CDATA[A tiny slide panel navigation jQuery plugin with big dreams<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/bigslide.js/0.9.1/bigSlide.min.js">https://cdnjs.cloudflare.com/ajax/libs/bigslide.js/0.9.1/bigSlide.min.js</a>]]></description>
             <guid isPermaLink="false">bigslide.js0.9.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 05 Aug 2015 17:04:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ice(3.6.0) was added]]></title>
-            <description><![CDATA[Ice is a comprehensive RPC framework with support for C++, .NET, Java, Python, JavaScript and more.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/ice/3.6.0/Ice.min.js">https://cdnjs.cloudflare.com/ajax/libs/ice/3.6.0/Ice.min.js</a>]]></description>
-            <link>https://zeroc.com/</link>
-            <guid isPermaLink="false">ice3.6.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 05 Aug 2015 14:42:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[d3fc(0.4.0) was added]]></title>
@@ -2746,14 +2769,6 @@
             <guid isPermaLink="false">nuclear-js1.1.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 29 Jul 2015 06:38:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[dialog-polyfill(0.3.0) was added]]></title>
-            <description><![CDATA[Polyfill for the <dialog> element<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/dialog-polyfill/0.3.0/dialog-polyfill.min.js">https://cdnjs.cloudflare.com/ajax/libs/dialog-polyfill/0.3.0/dialog-polyfill.min.js</a>]]></description>
-            <link>https://github.com/GoogleChrome/dialog-polyfill</link>
-            <guid isPermaLink="false">dialog-polyfill0.3.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 26 Jul 2015 08:46:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[xdomain(0.7.3) was added]]></title>
