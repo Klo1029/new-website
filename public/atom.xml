@@ -10,10 +10,17 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2015 02:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2015 12:12:36 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2015 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[async updated to version 1.4.2]]></title>
+            <description><![CDATA[Higher-order functions and common patterns for asynchronous code<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/async/1.4.2/async.min.js">https://cdnjs.cloudflare.com/ajax/libs/async/1.4.2/async.min.js</a>]]></description>
+            <guid isPermaLink="false">async1.4.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2015 08:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[twitter-bootstrap updated to version 4.0.0-alpha]]></title>
             <description><![CDATA[The most popular front-end framework for developing responsive, mobile first projects on the web.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/bootstrap.min.js">https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/bootstrap.min.js</a>]]></description>
@@ -170,6 +177,14 @@
             <guid isPermaLink="false">cyclejs-core3.1.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 20 Aug 2015 02:14:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[justifiedGallery(3.6.0) was added]]></title>
+            <description><![CDATA[This is a JQuery plugin that allows you to create an high quality justified gallery of images. Fill all the spaces!<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.0/jquery.justifiedGallery.min.js">https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.0/jquery.justifiedGallery.min.js</a>]]></description>
+            <link>http://miromannino.github.io/Justified-Gallery/</link>
+            <guid isPermaLink="false">justifiedGallery3.6.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2015 16:42:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[rangy updated to version 1.3.0]]></title>
@@ -826,13 +841,6 @@
             <pubDate>Wed, 19 Aug 2015 09:52:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[async updated to version 1.4.2]]></title>
-            <description><![CDATA[Higher-order functions and common patterns for asynchronous code<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/async/1.4.2/async.min.js">https://cdnjs.cloudflare.com/ajax/libs/async/1.4.2/async.min.js</a>]]></description>
-            <guid isPermaLink="false">async1.4.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2015 09:52:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[angulartics updated to version 0.20.0]]></title>
             <description><![CDATA[Vendor-agnostic web analytics for AngularJS applications<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/angulartics/0.20.0/angulartics.min.js">https://cdnjs.cloudflare.com/ajax/libs/angulartics/0.20.0/angulartics.min.js</a>]]></description>
             <link>http://luisfarzati.github.io/angulartics</link>
@@ -909,6 +917,14 @@
             <guid isPermaLink="false">Faker3.0.1</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Wed, 19 Aug 2015 09:52:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular-ui-tree(2.8.0) was added]]></title>
+            <description><![CDATA[An AngularJS UI component that can sort nested lists, provides drag & drop support and doesn't depend on jQuery<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-tree/2.8.0/angular-ui-tree.min.js">https://cdnjs.cloudflare.com/ajax/libs/angular-ui-tree/2.8.0/angular-ui-tree.min.js</a>]]></description>
+            <link>https://github.com/angular-ui-tree/angular-ui-tree</link>
+            <guid isPermaLink="false">angular-ui-tree2.8.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2015 08:22:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[zoomooz updated to version 1.1.6]]></title>
@@ -1551,6 +1567,14 @@
             <pubDate>Wed, 19 Aug 2015 07:41:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[notify(0.3.2) was added]]></title>
+            <description><![CDATA[A simple, versatile notification library<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/notify/0.3.2/notify.min.js">https://cdnjs.cloudflare.com/ajax/libs/notify/0.3.2/notify.min.js</a>]]></description>
+            <link>http://notifyjs.com/</link>
+            <guid isPermaLink="false">notify0.3.2</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2015 07:22:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[medium-editor updated to version 5.6.3]]></title>
             <description><![CDATA[Medium.com WYSIWYG editor clone.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/medium-editor/5.6.3//js/medium-editor.min.js">https://cdnjs.cloudflare.com/ajax/libs/medium-editor/5.6.3//js/medium-editor.min.js</a>]]></description>
             <link>http://yabwe.github.io/medium-editor/</link>
@@ -2018,12 +2042,28 @@
             <pubDate>Fri, 14 Aug 2015 15:19:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Buttons(2.0.0) was added]]></title>
+            <description><![CDATA[A fully customizable CSS button library built with Sass<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/Buttons/2.0.0/css/buttons.min.css">https://cdnjs.cloudflare.com/ajax/libs/Buttons/2.0.0/css/buttons.min.css</a>]]></description>
+            <link>http://unicorn-ui.com/buttons/</link>
+            <guid isPermaLink="false">Buttons2.0.0</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2015 10:25:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[angular-recaptcha(2.2.4) was added]]></title>
             <description><![CDATA[VividCortex<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/angular-recaptcha/2.2.4/angular-recaptcha.min.js">https://cdnjs.cloudflare.com/ajax/libs/angular-recaptcha/2.2.4/angular-recaptcha.min.js</a>]]></description>
             <link>https://github.com/vividcortex/angular-recaptcha</link>
             <guid isPermaLink="false">angular-recaptcha2.2.4</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Fri, 14 Aug 2015 09:11:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[angular-xeditable(0.1.9) was added]]></title>
+            <description><![CDATA[Edit in place for AngularJS<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/angular-xeditable/0.1.9/js/xeditable.min.js">https://cdnjs.cloudflare.com/ajax/libs/angular-xeditable/0.1.9/js/xeditable.min.js</a>]]></description>
+            <link>http://vitalets.github.io/angular-xeditable</link>
+            <guid isPermaLink="false">angular-xeditable0.1.9</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2015 08:49:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[bigfishtv-turret(3.0.0) was added]]></title>
@@ -2655,38 +2695,6 @@
             <pubDate>Thu, 06 Aug 2015 15:32:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[deb.js updated to version 0.0.2]]></title>
-            <description><![CDATA[Minimalistic JavaScript library for debugging in the browser<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/deb.js/0.0.2/deb.min.js">https://cdnjs.cloudflare.com/ajax/libs/deb.js/0.0.2/deb.min.js</a>]]></description>
-            <link>https://github.com/krasimir/deb.js</link>
-            <guid isPermaLink="false">deb.js0.0.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2015 06:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fuelux updated to version 3.11.0]]></title>
-            <description><![CDATA[Extends Twitter Bootstrap with additional lightweight JavaScript controls.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/fuelux/3.11.0/js/fuelux.min.js">https://cdnjs.cloudflare.com/ajax/libs/fuelux/3.11.0/js/fuelux.min.js</a>]]></description>
-            <link>http://exacttarget.github.io/fuelux</link>
-            <guid isPermaLink="false">fuelux3.11.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2015 06:23:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.payment updated to version 1.3.2]]></title>
-            <description><![CDATA[A general purpose library for building credit card forms, validating inputs and formatting numbers.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/jquery.payment/1.3.2/jquery.payment.min.js">https://cdnjs.cloudflare.com/ajax/libs/jquery.payment/1.3.2/jquery.payment.min.js</a>]]></description>
-            <link>https://github.com/stripe/jquery.payment</link>
-            <guid isPermaLink="false">jquery.payment1.3.2</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2015 06:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jic(1.1.1) was added]]></title>
-            <description><![CDATA[Javascript Image Compressor using HTML5 Canvas & File API that allows you to compress your jpeg & png images before uploading to the server (100% client-side and no extra libraries required!)<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/jic/1.1.1/JIC.min.js">https://cdnjs.cloudflare.com/ajax/libs/jic/1.1.1/JIC.min.js</a>]]></description>
-            <link>https://github.com/brunobar79/J-I-C</link>
-            <guid isPermaLink="false">jic1.1.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 06 Aug 2015 03:33:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[bigslide.js(0.9.1) was added]]></title>
             <description><![CDATA[A tiny slide panel navigation jQuery plugin with big dreams<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/bigslide.js/0.9.1/bigSlide.min.js">https://cdnjs.cloudflare.com/ajax/libs/bigslide.js/0.9.1/bigSlide.min.js</a>]]></description>
             <guid isPermaLink="false">bigslide.js0.9.1</guid>
@@ -2707,14 +2715,6 @@
             <guid isPermaLink="false">d3fc0.4.0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Tue, 04 Aug 2015 15:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[benchmark updated to version 1.0.0]]></title>
-            <description><![CDATA[A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/benchmark/1.0.0/benchmark.min.js">https://cdnjs.cloudflare.com/ajax/libs/benchmark/1.0.0/benchmark.min.js</a>]]></description>
-            <link>http://benchmarkjs.com/</link>
-            <guid isPermaLink="false">benchmark1.0.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Mon, 03 Aug 2015 08:33:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ace updated to version 1.2.0]]></title>
@@ -2740,14 +2740,6 @@
             <pubDate>Wed, 29 Jul 2015 08:43:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jQRangeSlider(5.7.1) was added]]></title>
-            <description><![CDATA[A javascript slider selector that supports dates<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/jQRangeSlider/5.7.1/jQRangeSlider.min.js">https://cdnjs.cloudflare.com/ajax/libs/jQRangeSlider/5.7.1/jQRangeSlider.min.js</a>]]></description>
-            <link>http://ghusse.github.com/jQRangeSlider/</link>
-            <guid isPermaLink="false">jQRangeSlider5.7.1</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2015 08:10:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[nuclear-js(1.1.1) was added]]></title>
             <description><![CDATA[Immutable, reactive Flux architecture. UI Agnostic.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/nuclear-js/1.1.1/nuclear.min.js">https://cdnjs.cloudflare.com/ajax/libs/nuclear-js/1.1.1/nuclear.min.js</a>]]></description>
             <link>https://github.com/optimizely/nuclear-js</link>
@@ -2770,14 +2762,6 @@
             <guid isPermaLink="false">xdomain0.7.3</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 26 Jul 2015 02:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jquery.smartmenus(1.0.0) was added]]></title>
-            <description><![CDATA[Advanced jQuery website menu plugin. Mobile first, responsive and accessible list-based website menus that work on all devices.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/jquery.smartmenus/1.0.0/jquery.smartmenus.min.js">https://cdnjs.cloudflare.com/ajax/libs/jquery.smartmenus/1.0.0/jquery.smartmenus.min.js</a>]]></description>
-            <link>http://www.smartmenus.org/</link>
-            <guid isPermaLink="false">jquery.smartmenus1.0.0</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sat, 25 Jul 2015 18:41:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[furtive(2.2.3) was added]]></title>
